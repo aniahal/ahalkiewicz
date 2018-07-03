@@ -55,7 +55,7 @@ p {
   background: #4B6A78;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 280px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -64,7 +64,7 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .profile-container {
-  padding: 20px;
+  padding: 30px;
   background: rgba(0, 0, 0, 0.2);
   text-align: center;
   color: #fff;
